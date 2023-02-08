@@ -1,5 +1,5 @@
 namespace: Gtk
-version: "4.0"
+version: "3.0"
 require_after:
 - about_dialog.cr
 - builder.cr
@@ -7,13 +7,13 @@ require_after:
 - gi_crystal.cr
 - list_store.cr
 - message_dialog.cr
-- stack.cr
+#- stack.cr
 - tree_selection.cr
 - tree_store.cr
 - tree_view.cr
 - widget.cr
 - widget_template.cr
-- snapshot.cr
+#- snapshot.cr
 
 types:
   ButtonPrivate:

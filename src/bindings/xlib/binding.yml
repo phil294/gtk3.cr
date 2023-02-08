@@ -1,0 +1,6 @@
+namespace: xlib
+version: "2.0"
+lib_ignore:
+ # This is the only symbol that isn't compatible with TamasSzekeres/x11-cr
+ # so let's just skip it for now
+ - XOpenDisplay

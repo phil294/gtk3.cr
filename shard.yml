@@ -1,8 +1,8 @@
-name: gtk4
+name: gtk3
 version: 0.12.0
 
 authors:
-  - Hugo Parente Lima <hugo.pl@gmail.com>
+  - Philip Waritschlager <github@waritschlager.de>
 
 dependencies:
   gi-crystal:
