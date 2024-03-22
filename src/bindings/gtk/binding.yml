@@ -13,7 +13,8 @@ require_after:
 - tree_view.cr
 - widget.cr
 - widget_template.cr
-#- snapshot.cr
+# - snapshot.cr
+# - signal_list_item_factory.cr
 
 types:
   ButtonPrivate:
